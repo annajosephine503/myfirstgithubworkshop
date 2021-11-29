@@ -16,9 +16,22 @@
 ### inserting images
 ![Image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
 
-### unordered list
+### unordered list(single tab space)
 * Fruits 
   * Oranges
   * Apples
   * Mangoes
   * Bananas
+### Ordered list (we use numbers here; double tab space)
+1. Vegetables
+   1. Tomatoes
+   2. Brinjals
+   3. Potatoes
+   4. Carrots
+
+### Table 
+sno|Name
+----|----
+1|Gifty
+2|sony
+
