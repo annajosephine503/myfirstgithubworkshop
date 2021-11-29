@@ -35,3 +35,10 @@ sno|Name
 1|Gifty
 2|sony
 
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+### hello! :smiling_face_with_three_hearts: 
+how are you?? :smile:
+
+Yes! I'm Fine . Thankyou! :laughing:
+
