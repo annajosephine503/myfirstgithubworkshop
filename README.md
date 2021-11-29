@@ -11,4 +11,7 @@
 
 ***triple star *** at the start and end-italic type with bold*** 
 
-.[Google].(https://www.google.com/)
+[Google](https://www.google.com/)
+
+### inserting images
+![Image](https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885__480.jpg)
